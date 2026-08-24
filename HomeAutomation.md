@@ -1,6 +1,7 @@
 # Beschreibung des Projektes Home Automation 
 
-- Übersicht, Worum geht es
-- Hardware
-- Use-Cases
-- 
+1. Übersicht, worum geht es
+2. Hardware
+3. Use-Cases
+4. Anforderungen
+5. 
