@@ -8,5 +8,7 @@
 
 
 
-Hey hurra ... ich komme rein
+Hey hurra ... ich komme rein, Das war vom Laptop aus ... als nächstes Test vom Iphone
+
+
 
