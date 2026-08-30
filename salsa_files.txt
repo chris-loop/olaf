@@ -1,37 +1,37 @@
-IMG_3081.MOV
-IMG_3139.MOV
-IMG_3220.MOV
-IMG_3235.MOV
-IMG_4455.MOV
-IMG_4456.MOV
-IMG_4492.MOV
-IMG_4494.MOV
-VIDEO-2025-09-14-21-01-47.mp4
-VIDEO-2025-12-09-17-13-45.mp4
-VIDEO-2026-01-29-09-46-42.mp4
-VIDEO-2026-02-13-22-12-22.mp4
-VIDEO-2026-02-26-15-19-50.mp4
-VIDEO-2026-02-26-15-20-09.mp4
-VIDEO-2026-03-06-19-33-51.mp4
-VIDEO-2026-03-09-16-38-53.mp4
-VIDEO-2026-03-12-07-03-11.mp4
-VIDEO-2026-03-12-07-03-23.mp4
-VIDEO-2026-03-12-15-37-16.mp4
-VIDEO-2026-03-23-20-45-15.mp4
-VIDEO-2026-03-23-20-45-27.mp4
-VIDEO-2026-03-26-10-02-35.mp4
-VIDEO-2026-03-26-10-10-21.mp4
-VIDEO-2026-03-26-13-20-07.mp4
-VIDEO-2026-04-01-20-49-34.mp4
-VIDEO-2026-04-09-09-34-19.mp4
-VIDEO-2026-04-17-08-08-20.mp4
-VIDEO-2026-04-20-18-38-47.mp4
-VIDEO-2026-04-22-21-35-04 2.mp4
-VIDEO-2026-04-22-21-35-04.mp4
-VIDEO-2026-04-29-20-16-46.mp4
-VIDEO-2026-05-28-06-49-41.mp4
-VIDEO-2026-08-12-21-44-47.mp4
-VIDEO-2026-08-12-21-45-38.mp4
-VIDEO-2026-08-26-11-38-40.mp4
-VIDEO-2026-08-26-11-40-04.mp4
+-rwxrwxrwx 1 chris chris  88742150 28. Aug 22:13  IMG_3081.MOV
+-rwxrwxrwx 1 chris chris  85957118 28. Aug 22:13  IMG_3139.MOV
+-rwxrwxrwx 1 chris chris  74783545 28. Aug 22:13  IMG_3220.MOV
+-rwxrwxrwx 1 chris chris 121133712 28. Aug 22:13  IMG_3235.MOV
+-rwxrwxrwx 1 chris chris  66794963 28. Aug 22:13  IMG_4455.MOV
+-rwxrwxrwx 1 chris chris 130049748 28. Aug 22:13  IMG_4456.MOV
+-rwxrwxrwx 1 chris chris  47684124 28. Aug 22:13  IMG_4492.MOV
+-rwxrwxrwx 1 chris chris 142562142 28. Aug 22:13  IMG_4494.MOV
+-rwxrwxrwx 1 chris chris  32728476 28. Aug 22:13  VIDEO-2025-09-14-21-01-47.mp4
+-rwxrwxrwx 1 chris chris  20032419 28. Aug 22:13  VIDEO-2025-12-09-17-13-45.mp4
+-rwxrwxrwx 1 chris chris  15421888 28. Aug 22:13  VIDEO-2026-01-29-09-46-42.mp4
+-rwxrwxrwx 1 chris chris  14711541 28. Aug 22:13  VIDEO-2026-02-13-22-12-22.mp4
+-rwxrwxrwx 1 chris chris  12791763 28. Aug 22:13  VIDEO-2026-02-26-15-19-50.mp4
+-rwxrwxrwx 1 chris chris  12791763 28. Aug 22:13  VIDEO-2026-02-26-15-20-09.mp4
+-rwxrwxrwx 1 chris chris  20632551 28. Aug 22:13  VIDEO-2026-03-06-19-33-51.mp4
+-rwxrwxrwx 1 chris chris  19866701 28. Aug 22:14  VIDEO-2026-03-09-16-38-53.mp4
+-rwxrwxrwx 1 chris chris  18491954 28. Aug 22:14  VIDEO-2026-03-12-07-03-11.mp4
+-rwxrwxrwx 1 chris chris  33431665 28. Aug 22:14  VIDEO-2026-03-12-07-03-23.mp4
+-rwxrwxrwx 1 chris chris  24497714 28. Aug 22:14  VIDEO-2026-03-12-15-37-16.mp4
+-rwxrwxrwx 1 chris chris  36019487 28. Aug 22:14  VIDEO-2026-03-23-20-45-15.mp4
+-rwxrwxrwx 1 chris chris  17587994 28. Aug 22:14  VIDEO-2026-03-23-20-45-27.mp4
+-rwxrwxrwx 1 chris chris  11830040 28. Aug 22:14  VIDEO-2026-03-26-10-02-35.mp4
+-rwxrwxrwx 1 chris chris  11830040 28. Aug 22:14  VIDEO-2026-03-26-10-10-21.mp4
+-rwxrwxrwx 1 chris chris  12957138 28. Aug 22:14  VIDEO-2026-03-26-13-20-07.mp4
+-rwxrwxrwx 1 chris chris  13295516 28. Aug 22:14  VIDEO-2026-04-01-20-49-34.mp4
+-rwxrwxrwx 1 chris chris   5584760 28. Aug 22:14  VIDEO-2026-04-09-09-34-19.mp4
+-rwxrwxrwx 1 chris chris  14829741 28. Aug 22:14  VIDEO-2026-04-17-08-08-20.mp4
+-rwxrwxrwx 1 chris chris  14829741 28. Aug 22:14  VIDEO-2026-04-20-18-38-47.mp4
+-rwxrwxrwx 1 chris chris   6153960 28. Aug 22:14 'VIDEO-2026-04-22-21-35-04 2.mp4'
+-rwxrwxrwx 1 chris chris   4952968 28. Aug 22:14  VIDEO-2026-04-22-21-35-04.mp4
+-rwxrwxrwx 1 chris chris   6063414 28. Aug 22:14  VIDEO-2026-04-29-20-16-46.mp4
+-rwxrwxrwx 1 chris chris  15470043 28. Aug 22:14  VIDEO-2026-05-28-06-49-41.mp4
+-rwxrwxrwx 1 chris chris   7593124 28. Aug 22:14  VIDEO-2026-08-12-21-44-47.mp4
+-rwxrwxrwx 1 chris chris  22185522 28. Aug 22:14  VIDEO-2026-08-12-21-45-38.mp4
+-rwxrwxrwx 1 chris chris   8158411 28. Aug 22:14  VIDEO-2026-08-26-11-38-40.mp4
+-rwxrwxrwx 1 chris chris  16343765 28. Aug 22:14  VIDEO-2026-08-26-11-40-04.mp4
 
